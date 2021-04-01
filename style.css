@@ -1,0 +1,43 @@
+body {
+    background-color:aliceblue;
+}
+h1 {
+    color:#191970;
+}
+p {
+    font-size: 20px;
+    text-indent:30px;
+}
+a:link {
+    color:blue;
+}
+a:visited {
+    color:blue;
+}
+a:hover {
+    color:red;
+}
+a:active {
+    color:blue;
+}
+.city {
+    background-color:slategrey;
+    color: black;
+    padding: 10px;
+}
+a {
+    font-size: 20px;
+}
+.to-up {
+    position: fixed;
+    bottom: 30px;
+    font-size: 20px;
+    right: 28px;
+    display: block;
+    z-index: 22;
+    cursor: pointer;
+}
+body {
+    height: 3730px;
+    background: linear-gradient(white,rgb(132, 132, 182));
+}
